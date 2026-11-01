@@ -24,7 +24,12 @@ I design, fix and automate identity infrastructure: Active Directory, Entra ID, 
 | [Audit-Azure](https://github.com/adrian207/Audit-Azure) | Checks Azure subscriptions against Azure Security Benchmark and CIS controls |
 | [Windows-Server-Powershell-Solutions-Suite](https://github.com/adrian207/Windows-Server-Powershell-Solutions-Suite) | Scripts and modules for Windows Server roles: AD, AD CS, ADFS, DNS, DHCP, Hyper-V, clustering |
 
-More: [DNS-Audit](https://github.com/adrian207/DNS-Audit) · [AD-Replication-Manager](https://github.com/adrian207/AD-Replication-Manager) · [Get-Privileged-Report](https://github.com/adrian207/Get-Privileged-Report) · [Auto-Domain-Migration](https://github.com/adrian207/Auto-Domain-Migration) · [Maester-O365](https://github.com/adrian207/Maester-O365) · [EJBCA-Automated-Lab](https://github.com/adrian207/EJBCA-Automated-Lab)
+## More projects
+
+- **Identity & Active Directory:** [DNS-Audit](https://github.com/adrian207/DNS-Audit) · [AD-Replication-Manager](https://github.com/adrian207/AD-Replication-Manager) · [Get-Privileged-Report](https://github.com/adrian207/Get-Privileged-Report) · [Auto-Domain-Migration](https://github.com/adrian207/Auto-Domain-Migration) · [Maester-O365](https://github.com/adrian207/Maester-O365)
+- **PKI:** [EJBCA-Automated-Lab](https://github.com/adrian207/EJBCA-Automated-Lab) · [Keyfactor-CLM-Implementation](https://github.com/adrian207/Keyfactor-CLM-Implementation)
+- **Platforms:** [ACM](https://github.com/adrian207/Automated-Configuration-Management-Architecture-ACM) (Vault, DSC, AWX and monitoring on Azure) · [Mac-Compliance-System](https://github.com/adrian207/Mac-Compliance-System) (macOS endpoint compliance) · [Vaultwarden-Serverless](https://github.com/adrian207/Vaultwarden-Serverless)
+- **Labs & scripts:** [Azure-Free-Tier-Datacenter](https://github.com/adrian207/Azure-Free-Tier-Datacenter) · [Azure-Win-Lab](https://github.com/adrian207/Azure-Win-Lab) · [azure-sql-docker-demos](https://github.com/adrian207/azure-sql-docker-demos) · [Infra-Scripts](https://github.com/adrian207/Infra-Scripts)
 
 ## Tools I use
 
